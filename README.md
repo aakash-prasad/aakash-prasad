@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakash-prasad
-- 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Java 
+- 🌱 I’m working in Springboot
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me prasadaakash71@gmail.com
 
